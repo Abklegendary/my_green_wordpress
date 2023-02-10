@@ -5,15 +5,14 @@
 I am to setup a Wordpress site for a client, the site should be about renewable enrgy.
 
 ## Description
-I registered on wordpress i created a free site, i used custom themes and custom navigation, i have 6 pages which are 
-the home page, solar energy page, wind energy page, tidal energy page, hydro power page, page for cities that use renewable energy and lastly contact page.
-i have a header and footer and also a section to input your email weekly for news letter
-
+i registered an account on Wordpress and created a free site, i used custom themes and navigations and a have 6 pages which are:
+Home page, solar energy page, wind energy page, tidal energy page, hydro power page, contact page and a page for cities that use renewable energy. 
+the site has a header, footer and also a section where you can subscribe for weekly newsletter.
 ## Installation
-No Installation needed for this task
+There is no Installation for this project
 
 ## Usage
-All you need to do is visit the website to see how it works
+to run this project, copy the url to a browser and run it. 
 
 ### The Core Team
 
