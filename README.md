@@ -2,19 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+I am to setup a Wordpress site for a client, the site should be about renewable enrgy.
 
 ## Description
-TODO - How have you solved the problem?
+I registered on wordpress i created a free site, i used custom themes and custom navigation, i have 6 pages which are 
+the home page, solar energy page, wind energy page, tidal energy page, hydro power page, page for cities that use renewable energy and lastly contact page.
+i have a header and footer and also a section to input your email weekly for news letter
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No Installation needed for this task
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+All you need to do is visit the website to see how it works
 
 ### The Core Team
 
